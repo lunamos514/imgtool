@@ -8,3 +8,9 @@ __pycache__/
 *_flip*.*
 *_gray.*
 output/
+*.png
+*.jpg
+*.jpeg
+*.png
+*.jpg
+*.jpeg
